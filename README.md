@@ -1,6 +1,6 @@
 # Ensemble-Techniques-Travel-Package-Purchase-Prediction
 
-Background and Context
+### Background and Context
 
 You are a Data Scientist for a tourism company named "Visit with us". The Policy Maker of the company wants to enable and establish a viable business model to expand the customer base.
 
