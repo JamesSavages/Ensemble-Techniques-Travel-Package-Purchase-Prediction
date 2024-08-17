@@ -61,7 +61,7 @@ To build a model to predict which customer is potentially going to purchase the 
 
 **MonthlyIncome**: Gross monthly income of the customer
 
-# Business Recommendations
+## Business Recommendations
 The model of best performance could be used to help identify certain customers who may purcase a package. Given that the main features within this model were passport, married couples and the basic package, this contributes to identifying a target market.
 
 For example, discounts for the Wellness Tourism Package could be offered to married couples. Also, if they could offer discounts on some of their international offers which may attract people with a passpost to travel abroad. While the Wellness Tourism Package is the new package they are offering, the basic package is quite a popular package. Therefore, additional offerings for the basic package should be considered. Alternatively, correlating this package with the Wellness package could be considered. For example, they could have a basic package for the Wellness package which is cheaper and more affordable for customers.
