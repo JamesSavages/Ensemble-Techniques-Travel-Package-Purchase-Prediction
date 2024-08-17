@@ -60,3 +60,17 @@ To build a model to predict which customer is potentially going to purchase the 
 **Designation**: Designation of the customer in the current organization
 
 **MonthlyIncome**: Gross monthly income of the customer
+
+# Business Recommendations
+The model of best performance could be used to help identify certain customers who may purcase a package. Given that the main features within this model were passport, married couples and the basic package, this contributes to identifying a target market.
+
+For example, discounts for the Wellness Tourism Package could be offered to married couples. Also, if they could offer discounts on some of their international offers which may attract people with a passpost to travel abroad. While the Wellness Tourism Package is the new package they are offering, the basic package is quite a popular package. Therefore, additional offerings for the basic package should be considered. Alternatively, correlating this package with the Wellness package could be considered. For example, they could have a basic package for the Wellness package which is cheaper and more affordable for customers.
+
+While those were some of the main features for the model of best performance, its worth discussing some of the other features that we evaluated throughout the EDA and some of the models build:
+
+Pitch Satisfactory Score: As expected a score of 5 led to the most sales from the EDA. Assessing the sales people/team with the highest scores could be taken into account to target the right customers. Some of the employees with poor scores could shadow the higher scored employees. This may help improve their performance. Also, the marketing team should target the customers that did return a score of 5 as they would be more likely to repuchase.
+
+Type of Contact - a self enquiry was the highest form of contact, but from the EDA there was little difference in terms of sales. While a lot of enquires in todays market are more than likely over the phone or online, in person performance needs to also be evaulated. For example, is someoen does "Self Enquire" in person, the sales people in office need to be able to pitch the new product confidently.
+
+Age & Income - from both the EDA and the model building Age and Income are important features to consider. Wellness Tourism Package is defined as "Travel that allows the traveler to maintain, enhance or kick-start a healthy lifestyle, and support or increase one's sense of well-being.". In terms of age this could be a broad category of individuals from young people looking to improve their health, all the way to people in their 50s/60s looking to improve their health and well being. Given this wide gap and that age is highly correlated with income, how this package is priced is very imprtant. As recommended having different forms of the package could be considered e.g. have a basic form of the package as well as a delux type package for older customers.
+
