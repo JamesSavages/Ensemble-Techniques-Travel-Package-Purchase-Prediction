@@ -1,4 +1,4 @@
-# Ensemble-Techniques-Travel-Package-Purchase-Prediction
+# Ensemble Techniques Travel Package Purchase Prediction
 
 ### Background and Context
 
